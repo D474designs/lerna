@@ -62,7 +62,7 @@
     "eslint-plugin-node": "^7.0.1",
     "eslint-plugin-prettier": "^2.6.2",
     "fast-async": "^6.3.7",
-    "jest": "^23.6.0",
+    "jest": "^30.0.5",
     "jest-circus": "^23.6.0",
     "normalize-newline": "^3.0.0",
     "normalize-path": "^3.0.0",
